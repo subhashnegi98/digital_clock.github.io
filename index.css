@@ -19,6 +19,7 @@ body{
 {
     #myClock{
         font-size: 3rem;
+        left : 20%;
     }
 }
 
